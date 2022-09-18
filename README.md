@@ -1,4 +1,4 @@
-# FutureReadyTalent_FinalProject
+# GoGreen
 This is my Future Ready Talent Final Project, the name of the project is "Go Green".
 
 The Problem Statement of this Project is;
