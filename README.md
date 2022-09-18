@@ -15,4 +15,4 @@ This is a static website developed using HTML and CSS languages. The main object
 
 This is a static website which is used to provide efficient services about plants. This is inspire the customers to buy and grow more plants which will make the earth a better place.
 
-# Azure Link: https://lively-rock-01c686f10.1.azurestaticapps.net/ 
+# Azure Link: https://lemon-moss-07fa57110.1.azurestaticapps.net
