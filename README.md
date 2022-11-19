@@ -12,7 +12,8 @@ This is a static website developed using HTML and CSS languages. The main object
 ![image](https://user-images.githubusercontent.com/70201437/190915912-55a0cbdc-9bfc-47e1-aa9b-2bc1ae1249d5.png)
 
 ![image](https://user-images.githubusercontent.com/70201437/190915953-ad7ebb0a-ddf1-49fc-92b7-55ed935ecda4.png)
-![image](https://user-images.githubusercontent.com/70201437/202851255-f4021c6c-7bb4-494c-92e4-7058aec579cb.png)
+<img width="960" alt="2022-11-19 (1)" src="https://user-images.githubusercontent.com/70201437/202851307-7d9dc7c6-76a8-4e52-88cc-fe6a3454667b.png">
+
 
 
 
