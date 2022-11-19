@@ -12,7 +12,10 @@ This is a static website developed using HTML and CSS languages. The main object
 ![image](https://user-images.githubusercontent.com/70201437/190915912-55a0cbdc-9bfc-47e1-aa9b-2bc1ae1249d5.png)
 
 ![image](https://user-images.githubusercontent.com/70201437/190915953-ad7ebb0a-ddf1-49fc-92b7-55ed935ecda4.png)
+![image](https://user-images.githubusercontent.com/70201437/202851255-f4021c6c-7bb4-494c-92e4-7058aec579cb.png)
 
-This is a static website which is used to provide efficient services about plants. This is inspire the customers to buy and grow more plants which will make the earth a better place.
+
+
+This is a static website which is used to provide efficient services about plants. This is inspire the customers to buy and grow more plants which will make the earth a better place.The Azure technology is used is static web apps.
 
 # Azure Link: https://lemon-moss-07fa57110.1.azurestaticapps.net
